@@ -207,14 +207,6 @@ The enhanced reward model provides:
 └── utils/                   # Utility functions
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
 ## License
 
 This project is for educational and research purposes. Please respect social media platforms' terms of service when scraping data.
